@@ -1,0 +1,12 @@
+button {
+    display: block;
+    margin: 0 auto;
+    background-color: lightcoral;
+    height: 40px;
+    width: 80;
+    border-radius: 3px;
+    border: none;
+}
+button:hover {
+    background-color: red;
+}
